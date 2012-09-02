@@ -51,6 +51,8 @@ Coming Soon
 1. HTTPS functionality.
 1. Saving tags to search by (e.g. I want to save a tag named Favorites and get a stream of posts for that tag)
 1. Saving posts to saved tags (e.g. I want to save a post to look up for later related to Cats)
+1. Linking a language to a tag (@manx)
+1. Searching for tags by its language (e.g. find all tags in Russian) (@manx)
 1. More awesomeness...
 
 

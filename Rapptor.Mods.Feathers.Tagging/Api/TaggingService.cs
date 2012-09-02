@@ -1,6 +1,7 @@
 using System;
 using System.Collections.Generic;
 using Rapptor.Mods.Feathers.Tagging.Domain;
+using Rapptor.Mods.Feathers.Tagging.Domain.Response;
 
 namespace Rapptor.Mods.Feathers.Tagging.Api
 {

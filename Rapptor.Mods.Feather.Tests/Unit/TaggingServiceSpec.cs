@@ -5,6 +5,7 @@ using FubuTestingSupport;
 using NUnit.Framework;
 using Rapptor.Mods.Feathers.Tagging.Api;
 using Rapptor.Mods.Feathers.Tagging.Domain;
+using Rapptor.Mods.Feathers.Tagging.Domain.Response;
 
 namespace Rapptor.Mods.Feather.Tests.Unit
 {

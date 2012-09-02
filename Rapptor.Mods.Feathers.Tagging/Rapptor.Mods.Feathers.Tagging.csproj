@@ -49,7 +49,7 @@
   <ItemGroup>
     <Compile Include="Api\ApiCaller\RestSharpTaggingApiCaller.cs" />
     <Compile Include="Api\TaggingService.cs" />
-    <Compile Include="Domain\Resposne\TagListResponse.cs" />
+    <Compile Include="Domain\Response\TagListResponse.cs" />
     <Compile Include="Domain\ITaggingApiCaller.cs" />
     <Compile Include="Domain\Request\RequestParameter.cs" />
     <Compile Include="Domain\Tag.cs" />

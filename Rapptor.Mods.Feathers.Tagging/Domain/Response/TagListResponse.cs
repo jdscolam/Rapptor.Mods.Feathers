@@ -1,7 +1,6 @@
 using System.Collections.Generic;
-using Rapptor.Mods.Feathers.Tagging.Domain;
 
-namespace Rapptor.Mods.Feathers.Tagging.Api
+namespace Rapptor.Mods.Feathers.Tagging.Domain.Response
 {
 	public class TagListResponse
 	{
