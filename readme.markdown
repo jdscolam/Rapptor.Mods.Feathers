@@ -48,6 +48,7 @@ Coming Soon
 1. Getting a list of unique posts that have a given tag
 1. Tag clouds on posts, including counts
 1. Identifying which tags within a tag cloud were added by a specific user
+1. HTTPS functionality.
 1. Saving tags to search by (e.g. I want to save a tag named Favorites and get a stream of posts for that tag)
 1. Saving posts to saved tags (e.g. I want to save a post to look up for later related to Cats)
 1. More awesomeness...
