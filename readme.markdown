@@ -57,6 +57,8 @@ Coming Soon
 Credit Where it is Due
 --
 
+Thank you to God, and Jesus Christ for everything.
+
 Lots of #highfives for @elmofromok, @lucypepper, @po, @q, @clapson, @elyse, @trine, @aphroditesoftwr, and others for beliving in me and giving me ideas.
 
 Lots of thanks for @mas for keeping me musically inspired during the project.
