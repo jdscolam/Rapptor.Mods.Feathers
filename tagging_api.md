@@ -63,6 +63,14 @@ Create a new Tag by sending JSON in the HTTP-POST body containing the `PostId`, 
 > Content-Type: application/json
 > DATA '{"PostId":"1","UserId":"2","Text":"Test Tag"}'
 
+```js
+	"Id":1123
+	,"PostId":"1"
+	,"UserId":"2"
+	,"Text":"Test Tag"
+	,"TimeStamp":"\/Date(1346557542680)\/"
+```
+
 ## Delete a Tag
 Deletes an instance of a tag on a post.
 
