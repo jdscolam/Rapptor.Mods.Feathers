@@ -5,6 +5,11 @@ A collection of API Modifications for the App.net API.
 
 Release Notes
 --
+**Version 0.2**
+- Added trimming to tags (no leading/trailing spaces or tabs)
+- Added errors on null or whitespace tags, userId's, and postId's
+- Added an error if attempting to duplicate a tag (same post, user, and tag text)
+
 **Version 0.1**
 - Initial Release (VERY ALPHA!)
 - Added the Tagging Mod (VERY ALPHA!)
@@ -41,9 +46,7 @@ Input Needed (and Pull-Requests Accepted)
 Coming Soon
 --
 
-1. Better whitespace handling around tags
 1. Ensure that a user can only delete their own tags
-1. Allowing a user to only add a tag once
 1. Reducing the number of tags returned to a managable number (~20 or so)
 1. Getting a list of unique posts that have a given tag
 1. Tag clouds on posts, including counts
